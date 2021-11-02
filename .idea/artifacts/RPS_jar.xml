@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="RPS:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RPS_jar</output-path>
+    <root id="archive" name="RPS_jar.jar">
+      <element id="module-output" name="RPS" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/freva/ascii-table/1.2.0/ascii-table-1.2.0.jar" path-in-jar="/" />
+      <element id="library" level="project" name="github.freva.ascii.table" />
+    </root>
+  </artifact>
+</component>
